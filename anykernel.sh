@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=-NexusKernel!-5.10.256
+kernel.string=-NexusKernel!-5.10.257
 do.devicecheck=0
 do.modules=0
 do.systemless=0
